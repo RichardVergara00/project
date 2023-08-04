@@ -1,1 +1,1 @@
-# project
+This is lab 6
